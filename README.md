@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I'm+SemmozhiChezhian!👋;Passionate+Full+Stack+Developer;Loves+Learning+New+Things+Everyday&center=true&width=600&height=45&color=00FFAB&background=000000&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+I'm+SemmozhiChezhian!👋;Passionate+Full+Stack+Developer;Loves+Learning+New+Things+Everyday&center=true&width=600&height=45&color=AD20FF&background=0a043c&vCenter=true&size=22" />
 </p>
 
 ---
