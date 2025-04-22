@@ -1,46 +1,60 @@
-## 👋 Hi there, I'm Semmozhi!
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Semmozhi!👋&fontSize=40&fontAlignY=35&desc=A%20Passionate%20Fullstack%20Developer&descAlignY=55&descAlign=60" />
+</p>
 
-### 🚀 A Passionate Full Stack Software Developer
-
-I'm an enthusiastic developer who loves to build, learn, and share. Currently diving deeper into full-stack development and constantly pushing my limits to grow as a versatile engineer.
-
----
-
-### 💻 Tech Stack I Work With
-
-- **Languages**: `C`, `Java`, `Python`, `JavaScript`
-- **Frontend**: `HTML`, `CSS`, `React.js`, `Chakra UI`
-- **Backend**: `Node.js`, `Express.js`
-- **Database**: `MySQL`, `MongoDB`
-- **Other Concepts**: `OOPs`, `Operating Systems`, `Networking`, `DBMS`
+<!-- Profile Pic -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="200" alt="Semmozhi's Profile Pic" style="border-radius: 50%" />
+</p>
 
 ---
 
-### 🎯 Currently Learning
-- Advanced concepts in full-stack development
-- Chakra UI v2
-- System design and scalable web architectures
+### 🧑‍💻 About Me
+
+- 🔭 I’m currently working on **Full Stack Development Projects**
+- 🌱 I’m learning **Chakra UI v2/v3, System Design**
+- 💬 Ask me about **React, Node.js, Java, Python, MongoDB**
+- 📫 Reach me at: `your.email@example.com`
+- 😄 Pronouns: *She/Her*
+- ⚡ Fun fact: *I love building real-world apps & learning how the web really works!*
 
 ---
 
-### 🌟 What I Love Doing
-- 👨‍💻 Turning ideas into web applications
-- 📘 Learning and teaching new technologies
-- 🤝 Collaborating with other developers
+### 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,mongodb,java,python,c,git,github,vscode,figma" />
+</p>
 
 ---
 
-### 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile) *(Replace with your URL)*
-- [Portfolio](https://your-portfolio.com) *(Replace with your URL)*
-- 📬 Email: your.email@example.com *(Replace with your email)*
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chezhian22&show_icons=true&theme=radical" alt="Semmozhi's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chezhian22&theme=radical" alt="GitHub Streak Stats" />
+</p>
 
 ---
 
-### ⚡ Fun Fact
-I believe in **“Learning by doing”** and I’m always curious to explore how things work behind the scenes.
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chezhian22&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
 ---
 
-> “Stay curious, keep coding, and never stop growing.” 💫
+### 📫 Let's Connect
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-id/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" /></a>
+</p>
+
+---
+
+<p align="center">✨ Made with passion by <b>Semmozhi</b> ✨</p>
