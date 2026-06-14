@@ -64,15 +64,6 @@
 
 ---
 
-## 💼 Experience
-
-**🧠 AI Engineer Intern — Agentic AI Company** · `2026`
-- Designed and developed a **Hospital Appointment Booking Agent** using the tool-calling paradigm, giving the LLM controlled access to a live MySQL database for real-time appointment management.
-- Crafted system instructions defining the agent's identity, tools, and behavioral rules; implemented **guardrails** to filter sensitive data and **defensive prompting** to restrict out-of-scope queries.
-- Built a **Cost Estimation Intelligence** application for manufacturing, automating analysis of pricing parameters to identify optimal production cost for labels.
-
----
-
 ## 🚀 Featured Projects
 
 ### 🏥 AI-Powered Hospital Appointment Booking Agent
